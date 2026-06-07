@@ -104,4 +104,14 @@ USE shopease;
 
 ### Top Spending Customer 
 
-![Top Spending Customer](
+![Top Spending Customer](Top-Spending-Customers_031011.png)
+
+
+### Monthly Revenue 
+
+![Monthly Revenue](Monthly-revenue_031010.png)
+
+
+### Revenue per Order 
+
+![Revenue per Order](Revenue-per-order_031006.png)
