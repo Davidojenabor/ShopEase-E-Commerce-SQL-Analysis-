@@ -100,3 +100,8 @@ USE shopease;
 ### Best Selling Products 
 
 ![Best Selling Products](Best-Selling-Products.png)
+
+
+### Top Spending Customer 
+
+![Top Spending Customer](
