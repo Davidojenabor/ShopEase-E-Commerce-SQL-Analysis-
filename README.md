@@ -99,4 +99,4 @@ USE shopease;
 
 ### Best Selling Products 
 
-![Best Selling Products](Best-Selling_Products.png)
+![Best Selling Products](Best-Selling-Products.png)
